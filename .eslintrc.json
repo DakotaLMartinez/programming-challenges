@@ -1,0 +1,4 @@
+{
+  "plugins": ["testing-library"],
+  "extends": ["airbnb", "plugin:prettier/recommended"]
+}

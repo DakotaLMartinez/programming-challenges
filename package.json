@@ -1,0 +1,32 @@
+{
+  "name": "programming_challenges",
+  "version": "1.0.0",
+  "description": "dakota's programming challenges repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DakotaLMartinez/programming_challenges.git"
+  },
+  "keywords": [
+    "programming",
+    "challenges",
+    "javascript"
+  ],
+  "author": "Dakota Lee Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DakotaLMartinez/programming_challenges/issues"
+  },
+  "homepage": "https://github.com/DakotaLMartinez/programming_challenges#readme",
+  "dependencies": {
+    "jest": "^29.4.3",
+    "testing-library": "^0.0.2"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-testing-library": "^5.10.2"
+  }
+}
